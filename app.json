@@ -1,5 +1,5 @@
 {
-  "name":"JOEL-MD",
+  "name":"BUCKFOY-MD",
   "description":"A WhatsApp bot developed by joel_tech any problem wa.me  :255714595078,255767570963,255781144539",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/1fdd87f6182dac91694eb.jpg",
@@ -76,7 +76,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of Tanzania '255')",
     "required":false,
-    "value": "255714595078"
+    "value": "254759799995"
   },
     "WARN_COUNT":
   {
